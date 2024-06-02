@@ -77,7 +77,7 @@ In an effort to further prevent errors from typos Monero addresses are encoded u
 
 Characters used in Monero base58: `123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz`. Notice how characters that look similar such as `O` and `0` are missing.
 
-[More about Monero base58](https://monerodocs.org/cryptography/base58/).
+[More about Monero base58](https://monerodocs.org/cryptography/base58).
 
 ### Deteministic Wallets
 
